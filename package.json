@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_rest",
+  "version": "0.0.1",
+  "description": "API REST de prueba para la implementación base con nodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no hay pruebas especificadas\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": ["api","rest","nodeJS"],
+  "author": "Yainier M. Ruben",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
